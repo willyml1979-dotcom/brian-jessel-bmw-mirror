@@ -1,6 +1,6 @@
 {
   "dealership": "Brian Jessel Bmw",
-  "generated_at": "2026-10-26T01:14:24",
+  "generated_at": "2026-10-26T06:29:11",
   "vehicle_count": 596,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -5709,14 +5709,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 BMW M2 ",
+      "name": "2027 BMW M2 Coupe",
       "vin": "3MF23DM08V8G78815",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/76836016d8ac.html",
       "year": 2027,
       "make": "BMW",
-      "model": "M2",
+      "model": "M2 Coupe",
       "condition": "new",
-      "price": 135402.0,
+      "price": 122002.0,
       "price_currency": "CAD"
     },
     {
