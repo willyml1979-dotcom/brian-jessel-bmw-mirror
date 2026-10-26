@@ -1,6 +1,6 @@
 {
   "dealership": "Brian Jessel Bmw",
-  "generated_at": "2026-10-25T21:41:21",
+  "generated_at": "2026-10-26T01:14:24",
   "vehicle_count": 596,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -229,6 +229,15 @@
       "condition": "used",
       "price": 17900.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2017 BMW X1",
+      "vin": "WBXHT3C32H5F76954",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/ed4552b9e1ad.html",
+      "year": 2017,
+      "make": "BMW",
+      "model": "X1",
+      "condition": "used"
     },
     {
       "name": "2017 BMW X3 xDrive35i - M Sport, Premium Package Enhanced",
@@ -555,17 +564,6 @@
       "model": "M4 Coupe Competition - Advanced Driving Assistant Package",
       "condition": "used",
       "price": 88888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 BMW X5 xDrive40i - M Sport, Premium Enhanced Package",
-      "vin": "5UXCR6C08M9F08589",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/42e3b40f2723.html",
-      "year": 2021,
-      "make": "BMW",
-      "model": "X5",
-      "condition": "used",
-      "price": 51900.0,
       "price_currency": "CAD"
     },
     {
@@ -1052,13 +1050,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 BMW X1",
+      "name": "2023 BMW X1 xDrive28i - M Sport, Premium Enhanced Package",
       "vin": "WBX73EF01P5W16848",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/9e354ce50ba9.html",
       "year": 2023,
       "make": "BMW",
       "model": "X1",
-      "condition": "used"
+      "condition": "used",
+      "price": 41900.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2023 BMW X3 xDrive30i - Premium Essential, No Accidents",
@@ -1222,7 +1222,7 @@
       "make": "BMW",
       "model": "X5",
       "condition": "used",
-      "price": 59900.0,
+      "price": 57888.0,
       "price_currency": "CAD"
     },
     {
@@ -1345,7 +1345,7 @@
       "condition": "used"
     },
     {
-      "name": "2024 BMW iX xDrive40",
+      "name": "2024 BMW iX xDrive40 - Sport Package, Enhanced, New Tires",
       "vin": "WB513CF02RCN12192",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/61ca11c50387.html",
       "year": 2024,
