@@ -1,7 +1,7 @@
 {
   "dealership": "Brian Jessel Bmw",
-  "generated_at": "2026-10-26T06:29:11",
-  "vehicle_count": 596,
+  "generated_at": "2026-10-26T09:42:33",
+  "vehicle_count": 595,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -362,13 +362,15 @@
       "condition": "used"
     },
     {
-      "name": "2019 BMW 8 Series Convertible",
+      "name": "2019 BMW 8 Series Convertible M850i xDrive Cabriolet - HEA Package",
       "vin": "WBAFY4C53KBJ98921",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/0d621e75d537.html",
       "year": 2019,
       "make": "BMW",
       "model": "8 Series",
-      "condition": "used"
+      "condition": "used",
+      "price": 63900.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2019 BMW X3 xDrive30i - Advanced Driver Assist, No Accidents",
@@ -1237,7 +1239,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 BMW X5 ",
+      "name": "2023 BMW X5 xDrive40i - M Sport Edition",
       "vin": "5UXCR6C01P9S01458",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/9b6c77c11845.html",
       "year": 2023,
@@ -1660,15 +1662,6 @@
       "condition": "used"
     },
     {
-      "name": "2024 BMW X3",
-      "vin": "5UX53DP07R9W29000",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/72a00a71013d.html",
-      "year": 2024,
-      "make": "BMW",
-      "model": "X3",
-      "condition": "used"
-    },
-    {
       "name": "2024 BMW X4 M40i - Premium Enhanced, No Accidents",
       "vin": "5UX43DT07R9W81938",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/1cb8e02f5115.html",
@@ -1804,7 +1797,7 @@
       "make": "BMW",
       "model": "i4",
       "condition": "used",
-      "price": 87900.0,
+      "price": 86888.0,
       "price_currency": "CAD"
     },
     {
@@ -1841,7 +1834,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 BMW i4",
+      "name": "2025 BMW i4 M50 xDrive - Premium Essential Pkg, No Accidents",
       "vin": "WBY33HD06SFV85503",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/47dc86a7f5cc.html",
       "year": 2025,
