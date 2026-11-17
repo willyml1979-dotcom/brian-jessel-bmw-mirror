@@ -1,6 +1,6 @@
 # Brian Jessel BMW
 
- dealership in Vancouver. AI-readable inventory mirror, about 570 vehicles.
+ dealership in Vancouver. AI-readable inventory mirror, about 610 vehicles.
 
 - Official website: https://www.brianjesselbmw.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/

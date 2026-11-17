@@ -1,30 +1,10 @@
 {
   "dealership": "Brian Jessel Bmw",
-  "generated_at": "2026-11-17T05:07:05",
-  "vehicle_count": 570,
+  "generated_at": "2026-11-17T12:43:19",
+  "vehicle_count": 610,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
-    {
-      "name": "2001 Porsche Boxster Spyder",
-      "vin": "WP0CB29851U664736",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/346aabd1a01f.html",
-      "year": 2001,
-      "make": "Porsche",
-      "model": "Boxster Spyder",
-      "condition": "used"
-    },
-    {
-      "name": "2013 Infiniti JX35 ",
-      "vin": "5N1AL0MM7DC309618",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/3bd862553aaf.html",
-      "year": 2013,
-      "make": "Infiniti",
-      "model": "JX35",
-      "condition": "used",
-      "price": 13900.0,
-      "price_currency": "CAD"
-    },
     {
       "name": "2014 BMW 7 Series 750i xDrive - Executive Package",
       "vin": "WBAYB6C59ED224324",
@@ -34,17 +14,6 @@
       "model": "7 Series",
       "condition": "used",
       "price": 26900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2014 Mercedes-Benz M-Class ML350 4MATIC BlueTEC - Diesel, No Accidents",
-      "vin": "4JGDA2EB0EA365151",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/493352aa819f.html",
-      "year": 2014,
-      "make": "Mercedes-Benz",
-      "model": "M-Class ML350 4MATIC BlueTEC - Diesel, No Accidents",
-      "condition": "used",
-      "price": 18900.0,
       "price_currency": "CAD"
     },
     {
@@ -81,6 +50,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2015 BMW 3 Series Sedan 328i xDrive - Sport Line, Premium Package",
+      "vin": "WBA3B3G54FNR85289",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/b74203dd3844.html",
+      "year": 2015,
+      "make": "BMW",
+      "model": "3 Series",
+      "condition": "used",
+      "price": 21900.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2015 BMW 4 Series Gran Coupe 428i xDrive Gran Coupe - Executive Pkg, New Tires",
       "vin": "WBA4A7C50FD415798",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/e3b2e39241a3.html",
@@ -89,17 +69,6 @@
       "model": "4 Series",
       "condition": "used",
       "price": 25900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 BMW i8 Coupe ",
-      "vin": "WBY2Z2C53FV674638",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/3d19a3eafb18.html",
-      "year": 2015,
-      "make": "BMW",
-      "model": "i8 Coupe",
-      "condition": "used",
-      "price": 61900.0,
       "price_currency": "CAD"
     },
     {
@@ -125,54 +94,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2016 BMW 2 Series Convertible 228i xDrive Convertible - M Track Package",
-      "vin": "WBA1L9C50GV768028",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/169a1c163208.html",
+      "name": "2016 Audi A3 Cabriolet Cabriolet quattro 2.0T Progressiv",
+      "vin": "WAUY8LFF1G1006416",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/6705de4db0ab.html",
       "year": 2016,
-      "make": "BMW",
-      "model": "2 Series",
-      "condition": "used",
-      "price": 27900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 BMW 5 Series Sedan 535i xDrive AWD - M Sport, Executive Package",
-      "vin": "WBA5B3C54GG259579",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/06035eb9fd06.html",
-      "year": 2016,
-      "make": "BMW",
-      "model": "5 Series",
+      "make": "Audi",
+      "model": "A3 Cabriolet Cabriolet quattro 2.0T Progressiv",
       "condition": "used",
       "price": 26900.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2016 BMW 5 Series Sedan",
+      "name": "2016 BMW 5 Series Sedan 528i xDrive - M Sport Package",
       "vin": "WBA5A7C52GG151911",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/82d5be8de3d4.html",
       "year": 2016,
       "make": "BMW",
-      "model": "5 Series Sedan",
-      "condition": "used"
+      "model": "5 Series",
+      "condition": "used",
+      "price": 20900.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2016 BMW X5 M",
+      "name": "2016 BMW X5 M Premium Package, Park Assistant, Bang & Olufsen",
       "vin": "5YMKT6C50G0R78932",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/0de2316aaa11.html",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/5e3dc78be4e4.html",
       "year": 2016,
       "make": "BMW",
       "model": "X5",
-      "condition": "used"
-    },
-    {
-      "name": "2016 Hyundai Genesis Sedan ",
-      "vin": "KMHGN4JE2GU121211",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/5abda8e4b805.html",
-      "year": 2016,
-      "make": "Hyundai",
-      "model": "Genesis Sedan",
       "condition": "used",
-      "price": 18888.0,
+      "price": 36900.0,
       "price_currency": "CAD"
     },
     {
@@ -184,17 +135,6 @@
       "model": "C-Class",
       "condition": "used",
       "price": 30900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Toyota Corolla Sedan S - No Accidents",
-      "vin": "2T1BURHE7GC649912",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/c3d886fba783.html",
-      "year": 2016,
-      "make": "Toyota",
-      "model": "Corolla",
-      "condition": "used",
-      "price": 20900.0,
       "price_currency": "CAD"
     },
     {
@@ -231,15 +171,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 BMW X1",
-      "vin": "WBXHT3C32H5F76954",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/ed4552b9e1ad.html",
-      "year": 2017,
-      "make": "BMW",
-      "model": "X1",
-      "condition": "used"
-    },
-    {
       "name": "2017 BMW X3 xDrive35i - M Sport, Premium Package Enhanced",
       "vin": "5UXWX7C35H0U43923",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/668640be2803.html",
@@ -273,23 +204,47 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 BMW 2 Series Coupe",
-      "vin": "WBA2J5C52JVB28108",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/c5c157f3d1ee.html",
-      "year": 2018,
-      "make": "BMW",
-      "model": "2 Series Coupe",
-      "condition": "used"
+      "name": "2017 Mercedes-Benz S-Class S550 4MATIC LWB - No Accidents",
+      "vin": "WDDUG8FB5HA330961",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/2e90e013a5f2.html",
+      "year": 2017,
+      "make": "Mercedes-Benz",
+      "model": "S-Class",
+      "condition": "used",
+      "price": 39900.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2018 BMW 3 Series Sedan 330i xDrive Sedan - Sport Line, No Accidents",
-      "vin": "WBA8D9C50JEM33774",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/8224bdbd2be4.html",
+      "name": "2018 Acura ILX ",
+      "vin": "19UDE2F34JA801074",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/5b63a1bb3da1.html",
+      "year": 2018,
+      "make": "Acura",
+      "model": "ILX",
+      "condition": "used",
+      "price": 19888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Audi A4 Sedan 2.0 TFSI quattro Technik",
+      "vin": "WAUCNAF41JA138279",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/3e0e42105dba.html",
+      "year": 2018,
+      "make": "Audi",
+      "model": "A4",
+      "condition": "used",
+      "price": 29900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 BMW 4 Series Convertible 430i xDrive Cabriolet - Sport Line",
+      "vin": "WBA4Z3C56JEC57099",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/7f7f25972912.html",
       "year": 2018,
       "make": "BMW",
-      "model": "3 Series",
+      "model": "4 Series",
       "condition": "used",
-      "price": 23900.0,
+      "price": 31900.0,
       "price_currency": "CAD"
     },
     {
@@ -299,15 +254,6 @@
       "year": 2018,
       "make": "BMW",
       "model": "X1",
-      "condition": "used"
-    },
-    {
-      "name": "2018 BMW X3",
-      "vin": "5UXTR9C56JLC76781",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/4d8a631815fe.html",
-      "year": 2018,
-      "make": "BMW",
-      "model": "X3",
       "condition": "used"
     },
     {
@@ -331,35 +277,70 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Porsche Macan GTS GTS",
+      "name": "2018 Porsche Macan GTS",
       "vin": "WP1AG2A52JLB60417",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/8acd6160c6a0.html",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/8e07f94b4d44.html",
       "year": 2018,
       "make": "Porsche",
       "model": "Macan",
       "condition": "used",
-      "price": 48900.0,
+      "price": 47888.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2019 BMW 4 Series Gran Coupe 430i xDrive Gran Coupe - M Sport, No Accidents",
-      "vin": "WBA4J3C59KBL09882",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/50bfcf0c516a.html",
+      "name": "2018 Subaru Outback 3.6r Limited w/ Eyesight Package",
+      "vin": "4S4BSFNC2J3224939",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/3060f9d938b4.html",
+      "year": 2018,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "used",
+      "price": 20900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Audi SQ5 Technik 3.0 TFSI quattro - Black Optics Pacakge",
+      "vin": "WA1C4AFY8K2141579",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/d4f4e3b88c0b.html",
+      "year": 2019,
+      "make": "Audi",
+      "model": "SQ5 Technik 3.0 TFSI quattro - Black Optics Pacakge",
+      "condition": "used",
+      "price": 37888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 BMW 4 Series Convertible xDrive",
+      "vin": "WBA4Z3C59KEN89732",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/da1dd3392411.html",
       "year": 2019,
       "make": "BMW",
       "model": "4 Series",
       "condition": "used",
-      "price": 27588.0,
+      "price": 35900.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2019 BMW 4 Series Gran Coupe",
+      "name": "2019 BMW 4 Series Gran Coupe 430i xDrive Gran Coupe - M Sport Package",
       "vin": "WBA4J3C50KBL05283",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/8373a9d4490d.html",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/ac8a1aeadd8f.html",
       "year": 2019,
       "make": "BMW",
       "model": "4 Series",
-      "condition": "used"
+      "condition": "used",
+      "price": 27900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 BMW 7 Series 740Le xDrive - Executive Package, No Accidents",
+      "vin": "WBA7J2C56KB440419",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/abc7c357f8c8.html",
+      "year": 2019,
+      "make": "BMW",
+      "model": "7 Series",
+      "condition": "used",
+      "price": 49900.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2019 BMW 8 Series Convertible M850i xDrive Cabriolet - HEA Package",
@@ -373,14 +354,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 BMW X3 xDrive30i - Advanced Driver Assist, No Accidents",
-      "vin": "5UXTR9C51KLE14356",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/69e33b47ddbe.html",
+      "name": "2019 BMW X3 xDrive30i - Premium Enhanced Package",
+      "vin": "5UXTR9C58KLP96088",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/4371e70ff10d.html",
       "year": 2019,
       "make": "BMW",
       "model": "X3",
       "condition": "used",
-      "price": 30900.0,
+      "price": 29900.0,
       "price_currency": "CAD"
     },
     {
@@ -395,38 +376,38 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Jaguar F-Type Coupe Coupe R-Dynamic AWD",
-      "vin": "SAJD81FV3KCK58857",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/d6057e1f5a61.html",
+      "name": "2019 Genesis G70 Prestige",
+      "vin": "KMTG44LA6KU011838",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/ff53afe05480.html",
       "year": 2019,
-      "make": "Jaguar",
-      "model": "F-Type Coupe Coupe R-Dynamic AWD",
-      "condition": "used",
-      "price": 54900.0,
-      "price_currency": "CAD"
+      "make": "Genesis",
+      "model": "G70",
+      "condition": "used"
     },
     {
-      "name": "2019 Jeep Cherokee",
+      "name": "2019 Jeep Cherokee Trailhawk Elite 4x4, No Accidents",
       "vin": "1C4PJMBNXKD277617",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/1ad1196b1074.html",
       "year": 2019,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
-    },
-    {
-      "name": "2019 Land Rover Range Rover Evoque HSE - No Accidents",
-      "vin": "SALVR2RXXKH339790",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/aecd351d6d82.html",
-      "year": 2019,
-      "make": "Land",
-      "model": "Rover Range Rover Evoque HSE - No Accidents",
       "condition": "used",
-      "price": 25900.0,
+      "price": 18900.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Mercedes-Benz GLC ",
+      "name": "2019 Mercedes-Benz E-Class Sedan AMG E 63 S 4MATIC+ - No Accidents",
+      "vin": "WDDZF8KB7KA495710",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/1dbf2ae8958c.html",
+      "year": 2019,
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "condition": "used",
+      "price": 70900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Mercedes-Benz GLC GLC 300 4MATIC",
       "vin": "WDC0G4KB8KV137141",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/a53df836c881.html",
       "year": 2019,
@@ -448,25 +429,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Tesla Model 3 ",
-      "vin": "5YJ3E1EB5KF478157",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/309ca63a78c3.html",
+      "name": "2019 Porsche Panamera ",
+      "vin": "WP0AG2A71KL139921",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/8c64265ec197.html",
       "year": 2019,
-      "make": "Tesla",
-      "model": "Model 3",
+      "make": "Porsche",
+      "model": "Panamera",
       "condition": "used",
-      "price": 28900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Toyota Corolla Sedan SE - No Accidents",
-      "vin": "2T1BURHE1KC185962",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/4e8ab7f1e3a3.html",
-      "year": 2019,
-      "make": "Toyota",
-      "model": "Corolla",
-      "condition": "used",
-      "price": 24900.0,
+      "price": 73888.0,
       "price_currency": "CAD"
     },
     {
@@ -500,6 +470,28 @@
       "model": "SQ5 Technik",
       "condition": "used",
       "price": 43900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 BMW X1 xDrive Sports Activity",
+      "vin": "WBXJG9C01L5R35568",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/ceb61758c494.html",
+      "year": 2020,
+      "make": "BMW",
+      "model": "X1",
+      "condition": "used",
+      "price": 29888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 BMW X4 xDrive Sports Activity",
+      "vin": "5UX2V1C07L9D57754",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/6605d8d134ba.html",
+      "year": 2020,
+      "make": "BMW",
+      "model": "X4",
+      "condition": "used",
+      "price": 39888.0,
       "price_currency": "CAD"
     },
     {
@@ -558,14 +550,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 BMW M4 Coupe Competition - Advanced Driving Assistant Package",
+      "name": "2021 BMW M4 Competition - Advanced Driving Assistant Package",
       "vin": "WBS33AZ0XMCH38806",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/0c1bc54ae8f7.html",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/fc1d91d5bc42.html",
       "year": 2021,
       "make": "BMW",
-      "model": "M4 Coupe Competition - Advanced Driving Assistant Package",
+      "model": "M4 Competition - Advanced Driving Assistant Package",
       "condition": "used",
-      "price": 88888.0,
+      "price": 87888.0,
       "price_currency": "CAD"
     },
     {
@@ -576,6 +568,39 @@
       "make": "BMW",
       "model": "X5",
       "condition": "used"
+    },
+    {
+      "name": "2021 BMW X5 xDrive40i - Premium Excellence, M Sport Package",
+      "vin": "5UXCR6C07M9G97266",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/9936c4f13a45.html",
+      "year": 2021,
+      "make": "BMW",
+      "model": "X5",
+      "condition": "used",
+      "price": 49900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Jaguar F-Pace SVR",
+      "vin": "SADCZ2EE9MA688832",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/55bf57b4329d.html",
+      "year": 2021,
+      "make": "Jaguar",
+      "model": "F-Pace SVR",
+      "condition": "used",
+      "price": 64888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Land Rover Discovery Sport R-Dynamic HSE",
+      "vin": "SALCM2FX5MH889184",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/c30414f72d16.html",
+      "year": 2021,
+      "make": "Land",
+      "model": "Rover Discovery Sport R-Dynamic HSE",
+      "condition": "used",
+      "price": 31900.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2021 Mazda CX-30 GT AWD",
@@ -589,14 +614,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Mercedes-Benz GLC 63 AMG",
-      "vin": "W1N0G8KB7MF906537",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/c205fe1bac04.html",
+      "name": "2021 Porsche Taycan 4S - Sport Chrono Pkg, Performance Battery Plus",
+      "vin": "WP0AB2Y11MSA43024",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/a45b6ba371df.html",
       "year": 2021,
-      "make": "Mercedes-Benz",
-      "model": "GLC",
+      "make": "Porsche",
+      "model": "Taycan",
       "condition": "used",
-      "price": 71900.0,
+      "price": 76888.0,
       "price_currency": "CAD"
     },
     {
@@ -609,14 +634,36 @@
       "condition": "used"
     },
     {
-      "name": "2021 Volkswagen Tiguan Highline 4Motion - No Accidents",
-      "vin": "3VV4B7AX8MM148689",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/1c7034c97300.html",
+      "name": "2021 Tesla Model 3 Standard Range",
+      "vin": "5YJ3E1EA7MF001479",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/6319fb7cea99.html",
       "year": 2021,
-      "make": "Volkswagen",
-      "model": "Tiguan",
+      "make": "Tesla",
+      "model": "Model 3",
       "condition": "used",
-      "price": 29900.0,
+      "price": 28900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Tesla Model Y Performance",
+      "vin": "5YJYGDEF1MF299251",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/955786153bb3.html",
+      "year": 2021,
+      "make": "Tesla",
+      "model": "Model Y",
+      "condition": "used",
+      "price": 42900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Acura RDX Platinum Elite A-Spec",
+      "vin": "5J8TC2H84NL801743",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/ed9c022d92b5.html",
+      "year": 2022,
+      "make": "Acura",
+      "model": "RDX",
+      "condition": "used",
+      "price": 43900.0,
       "price_currency": "CAD"
     },
     {
@@ -653,6 +700,39 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2022 BMW iX xDrive50 - Premium Enhanced Package",
+      "vin": "WB523CF00NCK69349",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/21087482dc61.html",
+      "year": 2022,
+      "make": "BMW",
+      "model": "iX",
+      "condition": "used",
+      "price": 69900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 BMW iX xDrive50 - Premium Enhanced Package, New Tires",
+      "vin": "WB523CF09NCK44370",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/f45a134cba49.html",
+      "year": 2022,
+      "make": "BMW",
+      "model": "iX",
+      "condition": "used",
+      "price": 63900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 BMW iX xDrive50 - Sport Package, Premium Enhanced",
+      "vin": "WB523CF07NCK67453",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/33f744fc9402.html",
+      "year": 2022,
+      "make": "BMW",
+      "model": "iX",
+      "condition": "used",
+      "price": 68900.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2022 BMW M4 Convertible Competition Cabriolet - Advanced Driver Assistant",
       "vin": "WBS33BA01NCK93002",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/f18c02a07123.html",
@@ -672,6 +752,17 @@
       "model": "M4 Coupe Competition M xDrive Coupe - M Carbon Package",
       "condition": "used",
       "price": 94900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 BMW M4 Competition xDrive",
+      "vin": "WBS43AZ03NCJ04188",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/0b2410324aa8.html",
+      "year": 2022,
+      "make": "BMW",
+      "model": "M4 Competition xDrive",
+      "condition": "used",
+      "price": 95900.0,
       "price_currency": "CAD"
     },
     {
@@ -708,17 +799,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 BMW X3 xDrive30e Plug-in Hybrid",
-      "vin": "5UX63DP00N9M00687",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/68d853ca383f.html",
-      "year": 2022,
-      "make": "BMW",
-      "model": "X3",
-      "condition": "used",
-      "price": 38900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 BMW X4 xDrive30i - M Sport, Premium Enhanced Package",
       "vin": "5UX33DT08N9M76361",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/348ca2dbcecb.html",
@@ -741,13 +821,24 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 BMW X5",
-      "vin": "5UXCR6C02N9M91612",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/3f3af0bc3287.html",
+      "name": "2022 BMW X5 One Owner! Premium Essential Package!",
+      "vin": "5UXTA6C04N9M42676",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/9ab10aee08dd.html",
       "year": 2022,
       "make": "BMW",
       "model": "X5",
       "condition": "used"
+    },
+    {
+      "name": "2022 BMW X5 xDrive40i - Premium Enhanced Package",
+      "vin": "5UXCR6C05N9N38194",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/fc619de638af.html",
+      "year": 2022,
+      "make": "BMW",
+      "model": "X5",
+      "condition": "used",
+      "price": 47900.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2022 BMW X7 M50i - Premium Package",
@@ -794,6 +885,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2022 Mercedes-Benz GLS ",
+      "vin": "4JGFF5KE8NA706161",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/1a0dcc987151.html",
+      "year": 2022,
+      "make": "Mercedes-Benz",
+      "model": "GLS",
+      "condition": "used",
+      "price": 73900.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2022 Tesla Model 3 Long Range AWD - Low Mileage",
       "vin": "5YJ3E1EB1NF295567",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/ec08f159665a.html",
@@ -805,14 +907,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Tesla Model Y Long Range AWD",
-      "vin": "7SAYGAEE7NF383309",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/5e68a09c6e5f.html",
+      "name": "2022 Volkswagen Atlas Cross Sport Cross Sport 2.0 TSi",
+      "vin": "1V2LC2CA1NC205335",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/c4a9d6f50e11.html",
       "year": 2022,
-      "make": "Tesla",
-      "model": "Model Y",
+      "make": "Volkswagen",
+      "model": "Atlas Cross Sport",
       "condition": "used",
-      "price": 39888.0,
+      "price": 28888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Acura TLX A-Spec",
+      "vin": "19UUB6F51PA800376",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/ca3e9b945516.html",
+      "year": 2023,
+      "make": "Acura",
+      "model": "TLX",
+      "condition": "used",
+      "price": 41900.0,
       "price_currency": "CAD"
     },
     {
@@ -838,17 +951,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 BMW 3 Series Sedan 330i xDrive - M Sport Package, No Accidents",
-      "vin": "WBA83FF02PFN40314",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/60f1dcb51be4.html",
-      "year": 2023,
-      "make": "BMW",
-      "model": "3 Series",
-      "condition": "used",
-      "price": 47900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 BMW 3 Series Sedan 330e xDrive Plug-in Hybrid - M Sport, Enhanced Pkg",
       "vin": "WBA33FS04PFN52142",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/10e77bc85c45.html",
@@ -868,6 +970,39 @@
       "model": "3 Series",
       "condition": "used",
       "price": 48900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 BMW 3 Series Sedan 330e xDrive Plug-in Hybrid- M Sport, Essential Pkg",
+      "vin": "WBA33FS09PFN48040",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/d1c1fcb3a921.html",
+      "year": 2023,
+      "make": "BMW",
+      "model": "3 Series",
+      "condition": "used",
+      "price": 41900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 BMW 3 Series Sedan 330e xDrive Plug-in Hybrid - Premium Enhanced Pkg",
+      "vin": "WBA33FS00PFN43602",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/a406a7088943.html",
+      "year": 2023,
+      "make": "BMW",
+      "model": "3 Series",
+      "condition": "used",
+      "price": 45900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 BMW 3 Series Sedan 330e xDrive Plug-in Hybrid - Premium Essential Pkg",
+      "vin": "3MW39FS08P8D17024",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/da41935de686.html",
+      "year": 2023,
+      "make": "BMW",
+      "model": "3 Series",
+      "condition": "used",
+      "price": 41900.0,
       "price_currency": "CAD"
     },
     {
@@ -904,28 +1039,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 BMW i4 eDrive35 Gran Coupe - No Accidents",
-      "vin": "WBY43AW00PFR24661",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/d2e051bddc0e.html",
-      "year": 2023,
-      "make": "BMW",
-      "model": "i4",
-      "condition": "used",
-      "price": 45900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 BMW i4 eDrive35 - Premium Essential Package",
-      "vin": "WBY43AW09PFR39336",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/64e9ee2fcdb6.html",
-      "year": 2023,
-      "make": "BMW",
-      "model": "i4",
-      "condition": "used",
-      "price": 46900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 BMW i4 eDrive35 - No Accidents",
       "vin": "WBY43AW07PFR43353",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/1b9467f98f7b.html",
@@ -944,6 +1057,39 @@
       "make": "BMW",
       "model": "i4",
       "condition": "used"
+    },
+    {
+      "name": "2023 BMW i4 eDrive35 - Premium Enhanced Package, No Accidents",
+      "vin": "WBY43AW04PFR01822",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/7bd859f8a9c1.html",
+      "year": 2023,
+      "make": "BMW",
+      "model": "i4",
+      "condition": "used",
+      "price": 51900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 BMW i4 M50 - M Sport Pro, Premium Enhanced, No Accidents",
+      "vin": "WBY33AW08PFP27605",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/5b092fc124cb.html",
+      "year": 2023,
+      "make": "BMW",
+      "model": "i4",
+      "condition": "used",
+      "price": 65900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 BMW i7 xDrive60 - M Sport Package, No Accidents",
+      "vin": "WBY53EJ07PCM74317",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/cbb2aec70b70.html",
+      "year": 2023,
+      "make": "BMW",
+      "model": "i7",
+      "condition": "used",
+      "price": 108888.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2023 BMW iX xDrive40",
@@ -979,28 +1125,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 BMW iX xDrive40 - Sport Package, Premium Enhanced Package",
-      "vin": "WB513CF02PCM23736",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/cc026dc56cac.html",
-      "year": 2023,
-      "make": "BMW",
-      "model": "iX",
-      "condition": "used",
-      "price": 63900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 BMW iX xDrive40 - Premium Enhanced Package",
-      "vin": "WB513CF01PCM34243",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/0f815d2a0b73.html",
-      "year": 2023,
-      "make": "BMW",
-      "model": "iX",
-      "condition": "used",
-      "price": 67900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 BMW iX",
       "vin": "WB513CF07PCK66270",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/0ec716cd3c64.html",
@@ -1010,6 +1134,48 @@
       "condition": "used"
     },
     {
+      "name": "2023 BMW iX xDrive50 - Sport Package, Premium Essential",
+      "vin": "WB523CF0XPCL79991",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/f9507f661525.html",
+      "year": 2023,
+      "make": "BMW",
+      "model": "iX",
+      "condition": "used",
+      "price": 63900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 BMW iX xDrive40 - Premium Essential Package",
+      "vin": "WB513CF07PCK66267",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/1be331b547d3.html",
+      "year": 2023,
+      "make": "BMW",
+      "model": "iX",
+      "condition": "used",
+      "price": 56900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 BMW iX xDrive Sports Activity",
+      "vin": "WB513CF08PCM08772",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/0e3f8342a2be.html",
+      "year": 2023,
+      "make": "BMW",
+      "model": "iX",
+      "condition": "used"
+    },
+    {
+      "name": "2023 BMW M4 Competition M xDrive Cabriolet - Premium Package",
+      "vin": "WBS33BA09PCL91827",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/b69c8c0c1ab5.html",
+      "year": 2023,
+      "make": "BMW",
+      "model": "M4 Competition M xDrive Cabriolet - Premium Package",
+      "condition": "used",
+      "price": 98900.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2023 BMW M5 Sedan",
       "vin": "WBS83CH07PCN30368",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/6b5297633afc.html",
@@ -1017,17 +1183,6 @@
       "make": "BMW",
       "model": "M5 Sedan",
       "condition": "used"
-    },
-    {
-      "name": "2023 BMW X1 xDrive28i",
-      "vin": "WBX73EF07P5W85091",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/126f6e216722.html",
-      "year": 2023,
-      "make": "BMW",
-      "model": "X1",
-      "condition": "used",
-      "price": 29900.0,
-      "price_currency": "CAD"
     },
     {
       "name": "2023 BMW X1 xDrive28i - M Sport, Premium Essential Package",
@@ -1052,14 +1207,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 BMW X1 xDrive28i - M Sport, Premium Enhanced Package",
-      "vin": "WBX73EF01P5W16848",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/9e354ce50ba9.html",
+      "name": "2023 BMW X1 xDrive28i - M Sport, Premium Essential Package",
+      "vin": "WBX73EF01P5W90125",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/1ae85cdafbd6.html",
       "year": 2023,
       "make": "BMW",
       "model": "X1",
       "condition": "used",
-      "price": 41900.0,
+      "price": 40900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 BMW X1 xDrive28i - M Sport, Premium Enhanced Package",
+      "vin": "WBX73EF00P5V92056",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/18e6f3ede677.html",
+      "year": 2023,
+      "make": "BMW",
+      "model": "X1",
+      "condition": "used",
+      "price": 34900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 BMW X1 X1 xDrive28i - X Line Package, Premium Enhanced",
+      "vin": "WBX73EF01P5V91451",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/f199ac433d3d.html",
+      "year": 2023,
+      "make": "BMW",
+      "model": "X1",
+      "condition": "used",
+      "price": 43900.0,
       "price_currency": "CAD"
     },
     {
@@ -1107,17 +1284,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 BMW X3 xDrive30i - Premium Enhanced Package",
-      "vin": "5UX53DP04P9T32523",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/491336253a53.html",
-      "year": 2023,
-      "make": "BMW",
-      "model": "X3",
-      "condition": "used",
-      "price": 42900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 BMW X3 xDrive30i - Premium Essential Pkg, No Accidents",
       "vin": "5UX53DP06P9P74431",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/916d0a98f218.html",
@@ -1137,28 +1303,6 @@
       "model": "X3",
       "condition": "used",
       "price": 43900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 BMW X3 M40i - Premium Enhanced Package",
-      "vin": "5UX83DP01P9R86389",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/8851e2b618cd.html",
-      "year": 2023,
-      "make": "BMW",
-      "model": "X3",
-      "condition": "used",
-      "price": 58900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 BMW X3 xDrive30i - M Sport, Premium Enhanced, New Tires",
-      "vin": "5UX53DP09P9P79428",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/3dd07c4a4a74.html",
-      "year": 2023,
-      "make": "BMW",
-      "model": "X3",
-      "condition": "used",
-      "price": 50900.0,
       "price_currency": "CAD"
     },
     {
@@ -1184,17 +1328,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 BMW X3 xDrive30e Plug-in Hybrid - Enhanced, New Tires",
-      "vin": "5UX63DP0XP9N86290",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/f381b4a715a2.html",
-      "year": 2023,
-      "make": "BMW",
-      "model": "X3",
-      "condition": "used",
-      "price": 47900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 BMW X3 xDrive30i - Premium Essential Package",
       "vin": "5UX53DP02P9P84650",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/446845cc4510.html",
@@ -1214,6 +1347,39 @@
       "model": "X3",
       "condition": "used",
       "price": 41900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 BMW X3 M40i - Premium Enhanced Package",
+      "vin": "5UX83DP01P9R86389",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/824203276fe7.html",
+      "year": 2023,
+      "make": "BMW",
+      "model": "X3",
+      "condition": "used",
+      "price": 58900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 BMW X3 xDrive Sports Activity",
+      "vin": "5UX53DP01P9P85871",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/7dbd874045fb.html",
+      "year": 2023,
+      "make": "BMW",
+      "model": "X3",
+      "condition": "used",
+      "price": 41900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 BMW X3 xDrive",
+      "vin": "5UX63DP04P9P23403",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/7fdac57d3893.html",
+      "year": 2023,
+      "make": "BMW",
+      "model": "X3",
+      "condition": "used",
+      "price": 44888.0,
       "price_currency": "CAD"
     },
     {
@@ -1239,15 +1405,35 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 BMW X5 xDrive40i - M Sport Edition",
-      "vin": "5UXCR6C01P9S01458",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/9b6c77c11845.html",
+      "name": "2023 BMW X5 xDrive Sports Activity",
+      "vin": "5UXCR6C04P9N91214",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/a28d3b934e51.html",
+      "year": 2023,
+      "make": "BMW",
+      "model": "X5",
+      "condition": "used",
+      "price": 66900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 BMW X5 xDrive Sports Activity",
+      "vin": "5UXCR6C06P9P14057",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/678a17ef6088.html",
       "year": 2023,
       "make": "BMW",
       "model": "X5",
       "condition": "used",
       "price": 64900.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2023 BMW X5 xDrive Sports Activity",
+      "vin": "5UXCR6C07P9P83694",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/8a00b87a6398.html",
+      "year": 2023,
+      "make": "BMW",
+      "model": "X5",
+      "condition": "used"
     },
     {
       "name": "2023 BMW X6 M50i - Advanced Driving Assist, No Accidents",
@@ -1283,14 +1469,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Tesla Model Y ",
-      "vin": "LRWYGDEE4PC005749",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/763071e52523.html",
+      "name": "2023 Tesla Model X No Accidents",
+      "vin": "7SAXCDE50PF375211",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/c9cd1f624d35.html",
       "year": 2023,
       "make": "Tesla",
-      "model": "Model Y",
+      "model": "Model X",
       "condition": "used",
-      "price": 45900.0,
+      "price": 105900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Toyota 4Runner Limited - No Accidents",
+      "vin": "JTEKU5JR7P6188431",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/484f5d84083b.html",
+      "year": 2023,
+      "make": "Toyota",
+      "model": "4Runner",
+      "condition": "used",
+      "price": 58900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Audi Q4 e-tron ",
+      "vin": "WA1K2AFZ5RP005854",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/b93767ed7696.html",
+      "year": 2024,
+      "make": "Audi",
+      "model": "Q4 e-tron",
+      "condition": "used",
+      "price": 41888.0,
       "price_currency": "CAD"
     },
     {
@@ -1313,6 +1521,17 @@
       "model": "4 Series",
       "condition": "used",
       "price": 61900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 BMW 8 Series Convertible M850i xDrive Cabriolet - Premium Package",
+      "vin": "WBAFY4C03RCR00289",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/2a46634a1a7a.html",
+      "year": 2024,
+      "make": "BMW",
+      "model": "8 Series",
+      "condition": "used",
+      "price": 109900.0,
       "price_currency": "CAD"
     },
     {
@@ -1347,6 +1566,17 @@
       "condition": "used"
     },
     {
+      "name": "2024 BMW i4 M Sport Pro Package!",
+      "vin": "WBY33AW07RFR82264",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/028707009c04.html",
+      "year": 2024,
+      "make": "BMW",
+      "model": "i4",
+      "condition": "used",
+      "price": 74900.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2024 BMW iX xDrive40 - Sport Package, Enhanced, New Tires",
       "vin": "WB513CF02RCN12192",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/61ca11c50387.html",
@@ -1366,28 +1596,6 @@
       "model": "iX",
       "condition": "used",
       "price": 65900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 BMW iX xDrive50 - Adv. Driver Assist, Enhanced, New Tires",
-      "vin": "WB523CF04RCP66006",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/e6d3612ace92.html",
-      "year": 2024,
-      "make": "BMW",
-      "model": "iX",
-      "condition": "used",
-      "price": 66900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 BMW iX ",
-      "vin": "WB523CF09RCR58179",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/a9ffee63f116.html",
-      "year": 2024,
-      "make": "BMW",
-      "model": "iX",
-      "condition": "used",
-      "price": 76900.0,
       "price_currency": "CAD"
     },
     {
@@ -1411,6 +1619,17 @@
       "condition": "used"
     },
     {
+      "name": "2024 BMW iX xDrive40 - Sport Package, Premium Essential",
+      "vin": "WB513CF0XRCN81387",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/66300d0e234e.html",
+      "year": 2024,
+      "make": "BMW",
+      "model": "iX",
+      "condition": "used",
+      "price": 61900.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2024 BMW X1 M35i xDrive - M Sport Pro, Advanced Driver Assist",
       "vin": "WBX13EF06R5Z95533",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/2a5993a73f44.html",
@@ -1425,6 +1644,17 @@
       "name": "2024 BMW X1 xDrive28i - Premium Essential Pkg, No Accident",
       "vin": "WBX73EF04R5Y36553",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/2324bc131929.html",
+      "year": 2024,
+      "make": "BMW",
+      "model": "X1",
+      "condition": "used",
+      "price": 42900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 BMW X1 xDrive28i - M Sport Package, Premium Enhanced",
+      "vin": "WBX73EF08R5Y64226",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/a3dd66cc865e.html",
       "year": 2024,
       "make": "BMW",
       "model": "X1",
@@ -1463,17 +1693,6 @@
       "model": "X3",
       "condition": "used",
       "price": 52900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 BMW X3 M40i xDrive - Premium Essential, No Accidents",
-      "vin": "5UX83DP04R9W34104",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/cce010fc8cd7.html",
-      "year": 2024,
-      "make": "BMW",
-      "model": "X3",
-      "condition": "used",
-      "price": 68900.0,
       "price_currency": "CAD"
     },
     {
@@ -1653,9 +1872,93 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 BMW X3",
-      "vin": "5UX53DP03R9W07558",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/37999c70b51c.html",
+      "name": "2024 BMW X3 M Sport Package!",
+      "vin": "5UX53DP07R9V79473",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/4e0d8ddfcadb.html",
+      "year": 2024,
+      "make": "BMW",
+      "model": "X3",
+      "condition": "used",
+      "price": 56900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 BMW X3 xDrive30i - M Sport Edition, No Accidents",
+      "vin": "5UX53DP08R9W54214",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/5dfa4ffc8855.html",
+      "year": 2024,
+      "make": "BMW",
+      "model": "X3",
+      "condition": "used",
+      "price": 57900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 BMW X3 xDrive30i - M Sport Package, Premium Enhanced Pkg",
+      "vin": "5UX53DP04R9V70438",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/574ec19a47ac.html",
+      "year": 2024,
+      "make": "BMW",
+      "model": "X3",
+      "condition": "used",
+      "price": 55900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 BMW X3 Sports Activity",
+      "vin": "5UX83DP06R9V83155",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/c164d8bf4558.html",
+      "year": 2024,
+      "make": "BMW",
+      "model": "X3",
+      "condition": "used",
+      "price": 65900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 BMW X3 xDrive Sports Activity",
+      "vin": "5UX53DP06R9W18358",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/1e19b9a493c0.html",
+      "year": 2024,
+      "make": "BMW",
+      "model": "X3",
+      "condition": "used",
+      "price": 50888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 BMW X3 xDrive Sports Activity",
+      "vin": "5UX53DP00R9V83039",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/16d4380e36cd.html",
+      "year": 2024,
+      "make": "BMW",
+      "model": "X3",
+      "condition": "used",
+      "price": 56900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 BMW X3 xDrive Sports Activity",
+      "vin": "5UX53DP01R9W86616",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/ed256b3f7e8c.html",
+      "year": 2024,
+      "make": "BMW",
+      "model": "X3",
+      "condition": "used"
+    },
+    {
+      "name": "2024 BMW X3 xDrive",
+      "vin": "5UX63DP07R9U68166",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/77128fd6efe6.html",
+      "year": 2024,
+      "make": "BMW",
+      "model": "X3",
+      "condition": "used"
+    },
+    {
+      "name": "2024 BMW X3 xDrive Sports Activity",
+      "vin": "5UX53DP09R9W25885",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/0170188e8324.html",
       "year": 2024,
       "make": "BMW",
       "model": "X3",
@@ -1684,6 +1987,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2024 BMW X6 M Competition - Ultimate Pkg, Advanced Driver Assist",
+      "vin": "5YM23ET08R9T38108",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/9e541e92f210.html",
+      "year": 2024,
+      "make": "BMW",
+      "model": "X6",
+      "condition": "used",
+      "price": 126900.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2024 BMW X6 M60i - M Sport Pro, Premium Enhanced Package",
       "vin": "5UX43EX02R9V22096",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/e42be63c3ba7.html",
@@ -1706,6 +2020,37 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2024 BMW X7 xDrive40i - Premium Enhanced Package, No Accidents",
+      "vin": "5UX23EM07R9S75895",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/f68d295d911d.html",
+      "year": 2024,
+      "make": "BMW",
+      "model": "X7",
+      "condition": "used",
+      "price": 91900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 BMW XM Bowers & Wilkins Surround Sound, No Accidents",
+      "vin": "5YM23CS04R9X50080",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/8f136f5e3cdb.html",
+      "year": 2024,
+      "make": "BMW",
+      "model": "XM Bowers & Wilkins Surround Sound, No Accidents",
+      "condition": "used",
+      "price": 139900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Honda CR-V Hybrid Touring",
+      "vin": "2HKRS6H9XRH218759",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/6b5e87373db7.html",
+      "year": 2024,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "used"
+    },
+    {
       "name": "2024 MINI 3 Door Cooper S - No Accidents",
       "vin": "WMW53DH00R2U51050",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/0ca223f597aa.html",
@@ -1714,6 +2059,17 @@
       "model": "3 Door Cooper S - No Accidents",
       "condition": "used",
       "price": 33900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Mercedes-Benz GLE 450 4MATIC - No Accidents",
+      "vin": "4JGFB5KB0RB137419",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/8bc38be6b53a.html",
+      "year": 2024,
+      "make": "Mercedes-Benz",
+      "model": "GLE",
+      "condition": "used",
+      "price": 70888.0,
       "price_currency": "CAD"
     },
     {
@@ -1726,15 +2082,35 @@
       "condition": "used"
     },
     {
-      "name": "2024 Subaru Outback Limited XT AWD - No Accidents",
-      "vin": "4S4BTHND1R3208521",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/2305db9311ff.html",
+      "name": "2024 Porsche Cayenne Premium Package!",
+      "vin": "WP1AA2AY5RDA01845",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/dd4d55e9d4ab.html",
       "year": 2024,
-      "make": "Subaru",
-      "model": "Outback",
+      "make": "Porsche",
+      "model": "Cayenne",
       "condition": "used",
-      "price": 38900.0,
+      "price": 86888.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Porsche Macan S - Premium Plus Package, No Accidents",
+      "vin": "WP1AG2A58RLB38966",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/48fc64679b05.html",
+      "year": 2024,
+      "make": "Porsche",
+      "model": "Macan",
+      "condition": "used",
+      "price": 79888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Tesla Model Y Standard Range",
+      "vin": "7SAYGDED6RF052736",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/43dc9bcc28bb.html",
+      "year": 2024,
+      "make": "Tesla",
+      "model": "Model Y",
+      "condition": "used"
     },
     {
       "name": "2024 Toyota Highlander LE AWD - No Accidents",
@@ -1759,13 +2135,26 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Audi Q6 e-tron",
-      "vin": "WA164BGF4SA009344",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/198820bf5bcb.html",
+      "name": "2025 BMW 3 Series Sedan 330i xDrive - M Sport Package, Premium Package",
+      "vin": "3MW89CW08S8F77396",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/561ae59938df.html",
       "year": 2025,
-      "make": "Audi",
-      "model": "Q6 e-tron",
-      "condition": "used"
+      "make": "BMW",
+      "model": "3 Series",
+      "condition": "used",
+      "price": 55888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 BMW 4 Series Coupe xDrive",
+      "vin": "WBA63DA07SCS66122",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/c931ed29dbd5.html",
+      "year": 2025,
+      "make": "BMW",
+      "model": "4 Series",
+      "condition": "used",
+      "price": 59888.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2025 BMW 5 Series Sedan 550e xDrive Plug-in Hybrid - M Sport Pro Package",
@@ -1843,25 +2232,36 @@
       "condition": "used"
     },
     {
-      "name": "2025 BMW i5 Sedan xDrive40 - M Sport Pro, Premium Essential Pacakge",
-      "vin": "WBY13HG04SCT61103",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/d30393801be9.html",
+      "name": "2025 BMW i4 eDrive40 - M Sport Package, Premium Excellence Pkg",
+      "vin": "WBY23HD06SFV27578",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/909afe8d16b5.html",
       "year": 2025,
       "make": "BMW",
-      "model": "i5",
+      "model": "i4",
       "condition": "used",
-      "price": 81900.0,
+      "price": 70900.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 BMW i7 xDrive60 - Advanced Driver Assist, M Sport Pkg",
-      "vin": "WBY53EJ00SCU52815",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/a26bcda6d045.html",
+      "name": "2025 BMW iX xDrive40 - Sport Package, No Accidents",
+      "vin": "WB513CF0XSCT87948",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/d435928cd36a.html",
       "year": 2025,
       "make": "BMW",
-      "model": "i7",
+      "model": "iX",
       "condition": "used",
-      "price": 145900.0,
+      "price": 77900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 BMW M4 Competition xDrive",
+      "vin": "WBS43BA08SCS26865",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/221b999c6d63.html",
+      "year": 2025,
+      "make": "BMW",
+      "model": "M4 Competition xDrive",
+      "condition": "used",
+      "price": 102900.0,
       "price_currency": "CAD"
     },
     {
@@ -1876,6 +2276,39 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2025 BMW X1 xDrive28i - M Sport Package",
+      "vin": "WBX73EF08S5361463",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/02d63ab8d591.html",
+      "year": 2025,
+      "make": "BMW",
+      "model": "X1",
+      "condition": "used",
+      "price": 52900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 BMW X1 Msport, Premium Enhanced Package!",
+      "vin": "WBX73EF05S5239921",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/926ffc448705.html",
+      "year": 2025,
+      "make": "BMW",
+      "model": "X1",
+      "condition": "used",
+      "price": 51900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 BMW X1 xDrive28i",
+      "vin": "WBX73EF02S5389999",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/760a90323e71.html",
+      "year": 2025,
+      "make": "BMW",
+      "model": "X1",
+      "condition": "used",
+      "price": 53900.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2025 BMW X2 xDrive28i - M Sport Package, Premium Essential",
       "vin": "WBX63GM08S5104359",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/454ac8e5b083.html",
@@ -1883,7 +2316,7 @@
       "make": "BMW",
       "model": "X2",
       "condition": "used",
-      "price": 52900.0,
+      "price": 47888.0,
       "price_currency": "CAD"
     },
     {
@@ -1894,7 +2327,7 @@
       "make": "BMW",
       "model": "X2",
       "condition": "used",
-      "price": 54900.0,
+      "price": 53888.0,
       "price_currency": "CAD"
     },
     {
@@ -1905,7 +2338,18 @@
       "make": "BMW",
       "model": "X2",
       "condition": "used",
-      "price": 56900.0,
+      "price": 55888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 BMW X3 xDrive Sports Activity",
+      "vin": "5UX53GP02S9Z82090",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/a0475711b0b1.html",
+      "year": 2025,
+      "make": "BMW",
+      "model": "X3",
+      "condition": "used",
+      "price": 59888.0,
       "price_currency": "CAD"
     },
     {
@@ -1920,6 +2364,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2025 BMW X7 xDrive Sports Activity",
+      "vin": "5UX23EM05S9Y13791",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/17cbcaba433d.html",
+      "year": 2025,
+      "make": "BMW",
+      "model": "X7",
+      "condition": "used",
+      "price": 98900.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2025 Chevrolet Corvette Stingray Coupe - 1LT, No Accidents",
       "vin": "1G1YA2D49S5109936",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/7ba7a60464be.html",
@@ -1927,7 +2382,18 @@
       "make": "Chevrolet",
       "model": "Corvette",
       "condition": "used",
-      "price": 90900.0,
+      "price": 84788.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 GMC Canyon 4WD Crew Cab Denali - Preferred Equipment Group",
+      "vin": "1GTP2FEK8S1189824",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/392b7f41ac5e.html",
+      "year": 2025,
+      "make": "GMC",
+      "model": "Canyon",
+      "condition": "used",
+      "price": 56900.0,
       "price_currency": "CAD"
     },
     {
@@ -1986,12 +2452,12 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW 5 Series Sedan ",
+      "name": "2026 BMW 5 Series Sedan 540i xDrive - M Sport Pro, No Accidents",
       "vin": "WBA63FJ03TCW72525",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/cf4e805ab49e.html",
       "year": 2026,
       "make": "BMW",
-      "model": "5 Series Sedan",
+      "model": "5 Series",
       "condition": "used",
       "price": 93900.0,
       "price_currency": "CAD"
@@ -2008,17 +2474,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW M4 Convertible Competition Cabriolet - Advanced Driver Assist",
-      "vin": "WBS43BA00TCV50894",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/428086b5e7ba.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "M4 Convertible Competition Cabriolet - Advanced Driver Assist",
-      "condition": "used",
-      "price": 111888.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 BMW X1 xDrive28i - X-Line Package, No Accidents",
       "vin": "WBX73EF0XT5422846",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/c7c8fe7f18d1.html",
@@ -2026,7 +2481,7 @@
       "make": "BMW",
       "model": "X1",
       "condition": "used",
-      "price": 47588.0,
+      "price": 45188.0,
       "price_currency": "CAD"
     },
     {
@@ -2041,6 +2496,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 BMW X1 xDrive28i - X-Line Package, Premium Essential",
+      "vin": "WBX73EF01T5545452",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/3df88cd90de2.html",
+      "year": 2026,
+      "make": "BMW",
+      "model": "X1",
+      "condition": "used",
+      "price": 58900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 BMW X1 xDrive Sports Activity",
+      "vin": "WBX73EF06T5479738",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/3e3a126d9131.html",
+      "year": 2026,
+      "make": "BMW",
+      "model": "X1",
+      "condition": "used",
+      "price": 62888.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 BMW X2 M35i - M Sport Pro, Premium Enhanced",
       "vin": "WBX83GM08T5561621",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/6102e9159fa7.html",
@@ -2048,7 +2525,7 @@
       "make": "BMW",
       "model": "X2",
       "condition": "used",
-      "price": 66900.0,
+      "price": 65888.0,
       "price_currency": "CAD"
     },
     {
@@ -2059,18 +2536,7 @@
       "make": "BMW",
       "model": "X3",
       "condition": "used",
-      "price": 75588.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW X3 30 xDrive - M Sport Pro, Premium, Rear Comfort Pkg",
-      "vin": "5UX53GP05T9190727",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/0a2403c20a27.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "X3",
-      "condition": "used",
-      "price": 61888.0,
+      "price": 71588.0,
       "price_currency": "CAD"
     },
     {
@@ -2081,7 +2547,7 @@
       "make": "BMW",
       "model": "X3",
       "condition": "used",
-      "price": 85900.0,
+      "price": 77877.0,
       "price_currency": "CAD"
     },
     {
@@ -2092,7 +2558,7 @@
       "make": "BMW",
       "model": "X3",
       "condition": "used",
-      "price": 66900.0,
+      "price": 65888.0,
       "price_currency": "CAD"
     },
     {
@@ -2103,7 +2569,7 @@
       "make": "BMW",
       "model": "X3",
       "condition": "used",
-      "price": 85900.0,
+      "price": 84888.0,
       "price_currency": "CAD"
     },
     {
@@ -5052,26 +5518,6 @@
       "model": "Rover Defender 110 P300 S - No Accidents",
       "condition": "used",
       "price": 84900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Tundra",
-      "vin": "5TFPC5DB5TX117129",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/5463a7dd4f37.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Tundra",
-      "condition": "used"
-    },
-    {
-      "name": "2027 BMW M3 Sedan M3 - 6 Sp. Manual, Premium Package",
-      "vin": "WBS13HJ07VFW67525",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/b86977d47ea8.html",
-      "year": 2027,
-      "make": "BMW",
-      "model": "M3 Sedan M3 - 6 Sp. Manual, Premium Package",
-      "condition": "used",
-      "price": 121900.0,
       "price_currency": "CAD"
     },
     {
