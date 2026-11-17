@@ -1,7 +1,7 @@
 {
   "dealership": "Brian Jessel Bmw",
-  "generated_at": "2026-10-26T09:42:33",
-  "vehicle_count": 595,
+  "generated_at": "2026-11-17T05:07:05",
+  "vehicle_count": 570,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -2141,17 +2141,6 @@
     },
     {
       "name": "2026 BMW 2 Series Coupe M240i xDrive",
-      "vin": "3MW53CM0XT8G56335",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/c0d38e7f2c32.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "2 Series",
-      "condition": "new",
-      "price": 73600.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW 2 Series Coupe M240i xDrive",
       "vin": "3MW53CM01T8G57213",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/32eaba9d4b9a.html",
       "year": 2026,
@@ -2173,14 +2162,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW 2 Series Gran Coupe 228 xDrive",
-      "vin": "WBA23GG01T7V16150",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/db3508c24e7c.html",
+      "name": "2026 BMW 2 Series Coupe 230i xDrive",
+      "vin": "3MW33CM04T8G96708",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/07d04e505c6d.html",
       "year": 2026,
       "make": "BMW",
       "model": "2 Series",
       "condition": "new",
-      "price": 49900.0,
+      "price": 57200.0,
       "price_currency": "CAD"
     },
     {
@@ -2242,17 +2231,6 @@
       "name": "2026 BMW 2 Series Gran Coupe 228 xDrive",
       "vin": "WBA23GG07T7V99387",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/295344175849.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "2 Series",
-      "condition": "new",
-      "price": 49900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW 2 Series Gran Coupe 228 xDrive",
-      "vin": "WBA23GG03T7W24222",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/fa82400c664b.html",
       "year": 2026,
       "make": "BMW",
       "model": "2 Series",
@@ -2335,17 +2313,6 @@
       "model": "3 Series",
       "condition": "new",
       "price": 60612.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW 3 Series Sedan 330i xDrive",
-      "vin": "3MW89CW07T8G25472",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/74b17f9176bb.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "3 Series",
-      "condition": "new",
-      "price": 60162.0,
       "price_currency": "CAD"
     },
     {
@@ -2438,17 +2405,6 @@
     },
     {
       "name": "2026 BMW 3 Series Sedan 330i",
-      "vin": "3MW89CW03T8G36629",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/a70938b6d0d1.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "3 Series",
-      "condition": "new",
-      "price": 64600.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW 3 Series Sedan 330i",
       "vin": "3MW89CW06T8G42442",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/8678b4143806.html",
       "year": 2026,
@@ -2522,28 +2478,6 @@
       "model": "3 Series",
       "condition": "new",
       "price": 61150.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW 3 Series Sedan 330i",
-      "vin": "3MW89CW09T8G53029",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/0c90e92fad0b.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "3 Series",
-      "condition": "new",
-      "price": 64600.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW 3 Series Sedan 330i",
-      "vin": "3MW89CW08T8G19082",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/708133b62ef0.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "3 Series",
-      "condition": "new",
-      "price": 48912.0,
       "price_currency": "CAD"
     },
     {
@@ -2690,17 +2624,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW 3 Series Sedan M340i",
-      "vin": "WBA63FT04TFX38219",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/dc04ab941d17.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "3 Series",
-      "condition": "new",
-      "price": 82650.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 BMW 3 Series Sedan 330i",
       "vin": "3MW89CW06T8G43431",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/4cf478690136.html",
@@ -2709,6 +2632,83 @@
       "model": "3 Series",
       "condition": "new",
       "price": 70250.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 BMW 3 Series Sedan 330i",
+      "vin": "3MW89CW07T8G91438",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/5b7c1b58fb0e.html",
+      "year": 2026,
+      "make": "BMW",
+      "model": "3 Series",
+      "condition": "new",
+      "price": 66050.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 BMW 3 Series Sedan 330i",
+      "vin": "3MW89CW09T8G91439",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/994abd536f8a.html",
+      "year": 2026,
+      "make": "BMW",
+      "model": "3 Series",
+      "condition": "new",
+      "price": 70250.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 BMW 3 Series Sedan 330i",
+      "vin": "3MW89CW07T8G91441",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/1162d852fd22.html",
+      "year": 2026,
+      "make": "BMW",
+      "model": "3 Series",
+      "condition": "new",
+      "price": 61400.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 BMW 3 Series Sedan 330i",
+      "vin": "3MW89CW05T8G91440",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/86b1384414d5.html",
+      "year": 2026,
+      "make": "BMW",
+      "model": "3 Series",
+      "condition": "new",
+      "price": 61400.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 BMW 3 Series Sedan 330i",
+      "vin": "3MW89CW09T8G90162",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/53f8f5ed5c25.html",
+      "year": 2026,
+      "make": "BMW",
+      "model": "3 Series",
+      "condition": "new",
+      "price": 66050.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 BMW 3 Series Sedan 330i",
+      "vin": "3MW89CW00T8G91152",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/842c70bd71f9.html",
+      "year": 2026,
+      "make": "BMW",
+      "model": "3 Series",
+      "condition": "new",
+      "price": 61400.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 BMW 3 Series Sedan 330i",
+      "vin": "3MW89CW09T8G91151",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/fda8453fa317.html",
+      "year": 2026,
+      "make": "BMW",
+      "model": "3 Series",
+      "condition": "new",
+      "price": 68450.0,
       "price_currency": "CAD"
     },
     {
@@ -2753,17 +2753,6 @@
       "model": "4 Series",
       "condition": "new",
       "price": 63300.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW 4 Series Gran Coupe M440i xDrive Gran Coupe",
-      "vin": "WBA63FB08TFW55605",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/258b5a55f925.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "4 Series",
-      "condition": "new",
-      "price": 81850.0,
       "price_currency": "CAD"
     },
     {
@@ -2899,17 +2888,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW 7 Series 760i xDrive",
-      "vin": "WBA33EJ02TCY16174",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/4ebca9bfc730.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "7 Series",
-      "condition": "new",
-      "price": 182850.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 BMW 7 Series 750e xDrive",
       "vin": "WBA43EH04TCX69465",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/67c49d3083be.html",
@@ -2918,17 +2896,6 @@
       "model": "7 Series",
       "condition": "new",
       "price": 171550.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW 8 Series Convertible M850i xDrive Cabriolet",
-      "vin": "WBAFY4C01TCW24735",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/724dba10b062.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "8 Series",
-      "condition": "new",
-      "price": 123512.0,
       "price_currency": "CAD"
     },
     {
@@ -2955,41 +2922,8 @@
     },
     {
       "name": "2026 BMW i4 eDrive40",
-      "vin": "WBY63HD01TFW45279",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/ce4330ea4ba0.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "i4",
-      "condition": "new",
-      "price": 55802.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW i4 eDrive40",
       "vin": "WBY63HD07TFW58201",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/56305d65732a.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "i4",
-      "condition": "new",
-      "price": 61690.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW i4 eDrive40",
-      "vin": "WBY63HD02TFW57912",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/945d0b6d7d23.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "i4",
-      "condition": "new",
-      "price": 64290.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW i4 eDrive40",
-      "vin": "WBY63HD03TFW64657",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/bcc5b1ee09ca.html",
       "year": 2026,
       "make": "BMW",
       "model": "i4",
@@ -3109,28 +3043,6 @@
     },
     {
       "name": "2026 BMW i4 xDrive40",
-      "vin": "WBY43HD01TFW70593",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/40a73d89aaf1.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "i4",
-      "condition": "new",
-      "price": 79250.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW i4 eDrive40",
-      "vin": "WBY63HD00TFW75213",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/440d1c9b8f73.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "i4",
-      "condition": "new",
-      "price": 65102.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW i4 xDrive40",
       "vin": "WBY43HD03TFW73740",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/eec86aee7e94.html",
       "year": 2026,
@@ -3226,17 +3138,6 @@
       "model": "i4",
       "condition": "new",
       "price": 79250.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW i4 xDrive40",
-      "vin": "WBY43HD09TFW78599",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/069e146d1bae.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "i4",
-      "condition": "new",
-      "price": 81850.0,
       "price_currency": "CAD"
     },
     {
@@ -3406,17 +3307,6 @@
     },
     {
       "name": "2026 BMW i4 xDrive40",
-      "vin": "WBY43HD05TFX07564",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/378960213ad6.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "i4",
-      "condition": "new",
-      "price": 81850.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW i4 xDrive40",
       "vin": "WBY43HD01TFX04581",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/6c92fd382d99.html",
       "year": 2026,
@@ -3424,17 +3314,6 @@
       "model": "i4",
       "condition": "new",
       "price": 83550.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW i4 xDrive40",
-      "vin": "WBY43HD09TFX03355",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/db21d1c9bd7a.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "i4",
-      "condition": "new",
-      "price": 83350.0,
       "price_currency": "CAD"
     },
     {
@@ -3526,17 +3405,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW i4 eDrive40",
-      "vin": "WBY63HD07TFX21457",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/0b52459033f6.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "i4",
-      "condition": "new",
-      "price": 78590.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 BMW i4 xDrive40",
       "vin": "WBY43HD09TFX36940",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/634b471d73cb.html",
@@ -3592,17 +3460,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW i7 M70 xDrive",
-      "vin": "WBY83EH0XTCY08319",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/327799a6bff3.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "i7",
-      "condition": "new",
-      "price": 214300.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 BMW iX M70 xDrive",
       "vin": "WB563CF06TCY35187",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/01f12756fb63.html",
@@ -3626,39 +3483,6 @@
     },
     {
       "name": "2026 BMW iX xDrive60",
-      "vin": "WB553CF04TCY86814",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/1245b7a06d45.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "iX",
-      "condition": "new",
-      "price": 108300.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW iX xDrive60",
-      "vin": "WB553CF02TCY84494",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/c538da8b2dfa.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "iX",
-      "condition": "new",
-      "price": 108200.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW iX xDrive60",
-      "vin": "WB553CF05TCY80214",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/88517a820547.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "iX",
-      "condition": "new",
-      "price": 116200.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW iX xDrive60",
       "vin": "WB553CF05TCY86420",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/b9153488b82f.html",
       "year": 2026,
@@ -3669,36 +3493,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW iX xDrive45",
-      "vin": "WB543CF00TCY82867",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/be0a8c7be9b2.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "iX",
-      "condition": "new",
-      "price": 100400.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 BMW iX xDrive60",
-      "vin": "WB553CF06TCY34200",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/c9bddf7fe628.html",
+      "vin": "WB553CF08TCY62192",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/3951c3ecf4f6.html",
       "year": 2026,
       "make": "BMW",
       "model": "iX",
       "condition": "new",
-      "price": 108900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW iX xDrive60",
-      "vin": "WB553CF06TCY67066",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/fe4eb6e1e8fd.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "iX",
-      "condition": "new",
-      "price": 110200.0,
+      "price": 116100.0,
       "price_currency": "CAD"
     },
     {
@@ -3758,17 +3560,6 @@
     },
     {
       "name": "2026 BMW X1 xDrive28i",
-      "vin": "WBX73EF05T5619455",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/1f04fa893147.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "X1",
-      "condition": "new",
-      "price": 59100.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW X1 xDrive28i",
       "vin": "WBX73EF04T5617261",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/767aa7028d4b.html",
       "year": 2026,
@@ -3787,28 +3578,6 @@
       "model": "X1",
       "condition": "new",
       "price": 68700.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW X1 xDrive28i",
-      "vin": "WBX73EF0XT5635697",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/7ecbfd422529.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "X1",
-      "condition": "new",
-      "price": 61500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW X1 xDrive28i",
-      "vin": "WBX73EF05T5646669",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/0dbfe1bdb94d.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "X1",
-      "condition": "new",
-      "price": 60300.0,
       "price_currency": "CAD"
     },
     {
@@ -3845,17 +3614,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW X1 M35i xDrive",
-      "vin": "WBX13EF09T5646616",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/e8f7880a85dc.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "X1",
-      "condition": "new",
-      "price": 68700.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 BMW X1 xDrive28i",
       "vin": "WBX73EF09T5643418",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/e50228c67a9e.html",
@@ -3875,17 +3633,6 @@
       "model": "X1",
       "condition": "new",
       "price": 61400.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW X1 xDrive28i",
-      "vin": "WBX73EF01T5644904",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/d0f879e8c6c6.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "X1",
-      "condition": "new",
-      "price": 60800.0,
       "price_currency": "CAD"
     },
     {
@@ -4055,28 +3802,6 @@
     },
     {
       "name": "2026 BMW X1 M35i xDrive",
-      "vin": "WBX13EF04T5692421",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/e90fada3e8e2.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "X1",
-      "condition": "new",
-      "price": 68700.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW X1 xDrive28i",
-      "vin": "WBX73EF0XT5679974",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/17d8fb96fcf0.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "X1",
-      "condition": "new",
-      "price": 57300.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW X1 M35i xDrive",
       "vin": "WBX13EF06T5691013",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/108ccd2c25ff.html",
       "year": 2026,
@@ -4117,28 +3842,6 @@
       "model": "X1",
       "condition": "new",
       "price": 63300.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW X1 xDrive28i",
-      "vin": "WBX73EF02T5576550",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/cd5368435342.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "X1",
-      "condition": "new",
-      "price": 59100.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW X1 xDrive28i",
-      "vin": "WBX73EF00T5715719",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/6af8148d9684.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "X1",
-      "condition": "new",
-      "price": 58400.0,
       "price_currency": "CAD"
     },
     {
@@ -4227,17 +3930,6 @@
       "model": "X1",
       "condition": "new",
       "price": 56700.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW X1 xDrive28i",
-      "vin": "WBX73EF00T5669051",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/70eaf759722b.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "X1",
-      "condition": "new",
-      "price": 57300.0,
       "price_currency": "CAD"
     },
     {
@@ -4340,17 +4032,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW X1 M35i xDrive",
-      "vin": "WBX13EF00T5721638",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/9dbbbf2959b7.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "X1",
-      "condition": "new",
-      "price": 65700.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 BMW X1 xDrive28i",
       "vin": "WBX73EF03T5643835",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/18a72f359bbf.html",
@@ -4381,39 +4062,6 @@
       "model": "X1",
       "condition": "new",
       "price": 57900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW X1 xDrive28i",
-      "vin": "WBX73EF05T5749283",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/3981b97f81c5.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "X1",
-      "condition": "new",
-      "price": 60450.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW X1 xDrive28i",
-      "vin": "WBX73EF09T5748797",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/99a2e410a0ca.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "X1",
-      "condition": "new",
-      "price": 60450.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW X1 xDrive28i",
-      "vin": "WBX73EF0XT5749358",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/daa09ac29ba6.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "X1",
-      "condition": "new",
-      "price": 59550.0,
       "price_currency": "CAD"
     },
     {
@@ -4627,17 +4275,6 @@
     },
     {
       "name": "2026 BMW X2 xDrive28i",
-      "vin": "WBX63GM06T5692084",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/b780440adb3f.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "X2",
-      "condition": "new",
-      "price": 56400.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW X2 xDrive28i",
       "vin": "WBX63GM02T5692020",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/4b4a25543d96.html",
       "year": 2026,
@@ -4692,39 +4329,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW X2 xDrive28i",
-      "vin": "WBX63GM07T5719972",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/2b37e340eafc.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "X2",
-      "condition": "new",
-      "price": 59700.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW X2 xDrive28i",
-      "vin": "WBX63GM02T5565008",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/a3cbdf7a81fc.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "X2",
-      "condition": "new",
-      "price": 48362.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW X2 M35i xDrive",
-      "vin": "WBX83GM02T5547648",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/1306763c6dfe.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "X2",
-      "condition": "new",
-      "price": 61912.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 BMW X3 30 xDrive",
       "vin": "WBX57GP02TN420434",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/b81ab5c2d5e3.html",
@@ -4766,17 +4370,6 @@
       "model": "X3",
       "condition": "new",
       "price": 72950.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW X3 30 xDrive",
-      "vin": "WBX57GP08TN420938",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/a80f9c03bd74.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "X3",
-      "condition": "new",
-      "price": 62200.0,
       "price_currency": "CAD"
     },
     {
@@ -4843,28 +4436,6 @@
       "model": "X3",
       "condition": "new",
       "price": 62200.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW X3 30 xDrive",
-      "vin": "WBX57GP05TN424994",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/2abd795f19f2.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "X3",
-      "condition": "new",
-      "price": 68450.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW X3 30 xDrive",
-      "vin": "WBX57GP09TN420849",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/fa06f3822ac9.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "X3",
-      "condition": "new",
-      "price": 56912.0,
       "price_currency": "CAD"
     },
     {
@@ -4946,17 +4517,6 @@
     },
     {
       "name": "2026 BMW X3 30 xDrive",
-      "vin": "WBX57GP00TN427432",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/bc481ebf7c5b.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "X3",
-      "condition": "new",
-      "price": 68450.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW X3 30 xDrive",
       "vin": "WBX57GP07TN426942",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/6ab8be6cbadf.html",
       "year": 2026,
@@ -5012,17 +4572,6 @@
     },
     {
       "name": "2026 BMW X3 30 xDrive",
-      "vin": "WBX57GP0XTN425963",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/8bb71e657e0e.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "X3",
-      "condition": "new",
-      "price": 68450.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW X3 30 xDrive",
       "vin": "WBX57GP08TN426934",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/b82b4ea1da94.html",
       "year": 2026,
@@ -5034,17 +4583,6 @@
     },
     {
       "name": "2026 BMW X3 30 xDrive",
-      "vin": "WBX57GP05TN429886",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/765b5de48716.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "X3",
-      "condition": "new",
-      "price": 63200.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW X3 30 xDrive",
       "vin": "WBX57GP05TN432223",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/e0673c26166e.html",
       "year": 2026,
@@ -5052,17 +4590,6 @@
       "model": "X3",
       "condition": "new",
       "price": 72950.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW X3 30 xDrive",
-      "vin": "WBX57GP07TN431994",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/7650776e217a.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "X3",
-      "condition": "new",
-      "price": 66700.0,
       "price_currency": "CAD"
     },
     {
@@ -5100,17 +4627,6 @@
     },
     {
       "name": "2026 BMW X3 30 xDrive",
-      "vin": "WBX57GP03TN431684",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/3113444df738.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "X3",
-      "condition": "new",
-      "price": 68450.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW X3 30 xDrive",
       "vin": "WBX57GP07TN443059",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/3c0fe83b2099.html",
       "year": 2026,
@@ -5118,28 +4634,6 @@
       "model": "X3",
       "condition": "new",
       "price": 67950.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW X3 30 xDrive",
-      "vin": "WBX57GP03TN444631",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/ae194ff65ada.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "X3",
-      "condition": "new",
-      "price": 67950.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW X3 xDrive 30 M Sport",
-      "vin": "WBX57GP04TN444976",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/a7d846efa85a.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "X3",
-      "condition": "new",
-      "price": 69450.0,
       "price_currency": "CAD"
     },
     {
@@ -5151,17 +4645,6 @@
       "model": "X3",
       "condition": "new",
       "price": 72800.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW X3 30 xDrive",
-      "vin": "WBX57GP02TN450789",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/f50ff1d785f4.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "X3",
-      "condition": "new",
-      "price": 73450.0,
       "price_currency": "CAD"
     },
     {
@@ -5232,17 +4715,6 @@
     },
     {
       "name": "2026 BMW X3 30 xDrive",
-      "vin": "WBX57GP07TN446902",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/51254a15e1a6.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "X3",
-      "condition": "new",
-      "price": 76450.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW X3 30 xDrive",
       "vin": "WBX57GP07TN451887",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/8e1b38a7be9d.html",
       "year": 2026,
@@ -5275,25 +4747,179 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW X3 M50",
-      "vin": "5UX73GP01T9478625",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/fc1a2b09718f.html",
+      "name": "2026 BMW X3 30 xDrive",
+      "vin": "WBX57GP04TN451989",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/7506f7c4363f.html",
       "year": 2026,
       "make": "BMW",
       "model": "X3",
       "condition": "new",
-      "price": 91300.0,
+      "price": 67550.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW X5 M Competition",
-      "vin": "5YM13ET04T9440167",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/89493aea5d44.html",
+      "name": "2026 BMW X3 30 xDrive",
+      "vin": "WBX57GP04TN453449",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/4640419c40cc.html",
       "year": 2026,
       "make": "BMW",
-      "model": "X5",
+      "model": "X3",
       "condition": "new",
-      "price": 164300.0,
+      "price": 68450.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 BMW X3 30 xDrive",
+      "vin": "WBX57GP07TN455843",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/73ef39ee5ec6.html",
+      "year": 2026,
+      "make": "BMW",
+      "model": "X3",
+      "condition": "new",
+      "price": 68700.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 BMW X3 30 xDrive",
+      "vin": "WBX57GP06TN453680",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/30e2c3ad5488.html",
+      "year": 2026,
+      "make": "BMW",
+      "model": "X3",
+      "condition": "new",
+      "price": 73450.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 BMW X3 30 xDrive",
+      "vin": "WBX57GP06TN453467",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/5c20333e609c.html",
+      "year": 2026,
+      "make": "BMW",
+      "model": "X3",
+      "condition": "new",
+      "price": 73450.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 BMW X3 30 xDrive",
+      "vin": "WBX57GP03TN453863",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/82f19a72b1c6.html",
+      "year": 2026,
+      "make": "BMW",
+      "model": "X3",
+      "condition": "new",
+      "price": 68450.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 BMW X3 30 xDrive",
+      "vin": "WBX57GP05TN455808",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/3595be81b928.html",
+      "year": 2026,
+      "make": "BMW",
+      "model": "X3",
+      "condition": "new",
+      "price": 69700.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 BMW X3 30 xDrive",
+      "vin": "WBX57GP03TN452034",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/61a9de0c14d5.html",
+      "year": 2026,
+      "make": "BMW",
+      "model": "X3",
+      "condition": "new",
+      "price": 67550.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 BMW X3 M50",
+      "vin": "5UX73GP01T9619239",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/07c4dc8ab778.html",
+      "year": 2026,
+      "make": "BMW",
+      "model": "X3",
+      "condition": "new",
+      "price": 90200.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 BMW X3 M50",
+      "vin": "5UX73GP0XT9623449",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/5268de6d2cb7.html",
+      "year": 2026,
+      "make": "BMW",
+      "model": "X3",
+      "condition": "new",
+      "price": 88550.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 BMW X3 M50",
+      "vin": "5UX73GP05T9623410",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/4523bc481a6b.html",
+      "year": 2026,
+      "make": "BMW",
+      "model": "X3",
+      "condition": "new",
+      "price": 87950.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 BMW X3 M50",
+      "vin": "5UX73GP01T9619337",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/a57672882b75.html",
+      "year": 2026,
+      "make": "BMW",
+      "model": "X3",
+      "condition": "new",
+      "price": 86150.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 BMW X3 M50",
+      "vin": "5UX73GP0XT9618560",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/9a3e43b4983f.html",
+      "year": 2026,
+      "make": "BMW",
+      "model": "X3",
+      "condition": "new",
+      "price": 86650.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 BMW X3 M50",
+      "vin": "5UX73GP0XT9618851",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/5da366534390.html",
+      "year": 2026,
+      "make": "BMW",
+      "model": "X3",
+      "condition": "new",
+      "price": 86150.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 BMW X3 M50",
+      "vin": "5UX73GP00T9614887",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/32cacace358b.html",
+      "year": 2026,
+      "make": "BMW",
+      "model": "X3",
+      "condition": "new",
+      "price": 89400.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 BMW X3 30 xDrive",
+      "vin": "WBX57GP00TN456039",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/5575b713c547.html",
+      "year": 2026,
+      "make": "BMW",
+      "model": "X3",
+      "condition": "new",
+      "price": 67550.0,
       "price_currency": "CAD"
     },
     {
@@ -5364,17 +4990,6 @@
     },
     {
       "name": "2026 BMW X5 M60i xDrive",
-      "vin": "5UX33EU08T9524944",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/9662564d41af.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "X5",
-      "condition": "new",
-      "price": 135350.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW X5 M60i xDrive",
       "vin": "5UX33EU09T9522989",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/aeb7b3e57264.html",
       "year": 2026,
@@ -5382,17 +4997,6 @@
       "model": "X5",
       "condition": "new",
       "price": 134350.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW X5 xDrive50e",
-      "vin": "5UX43EU07T9512286",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/aeeec8c70944.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "X5",
-      "condition": "new",
-      "price": 110650.0,
       "price_currency": "CAD"
     },
     {
@@ -5415,17 +5019,6 @@
       "model": "X6",
       "condition": "new",
       "price": 142412.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW X6 xDrive40i",
-      "vin": "5UX33EX04T9418941",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/abd1f02b9d4b.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "X6",
-      "condition": "new",
-      "price": 106900.0,
       "price_currency": "CAD"
     },
     {
@@ -5515,6 +5108,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 BMW 2 Series Gran Coupe 228 xDrive",
+      "vin": "WBA23GG09V7W79468",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/b36c221afa1a.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "2 Series",
+      "condition": "new",
+      "price": 50900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 BMW 2 Series Gran Coupe 228 xDrive",
+      "vin": "WBA23GG05V7W79919",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/16831d58f3fb.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "2 Series",
+      "condition": "new",
+      "price": 50900.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 BMW 4 Series Convertible 430i xDrive Cabriolet",
       "vin": "WBA53DB01VCY75477",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/adb4e4a32e9d.html",
@@ -5523,17 +5138,6 @@
       "model": "4 Series",
       "condition": "new",
       "price": 80550.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 BMW 4 Series Coupe 430i xDrive Coupe",
-      "vin": "WBA63DA03VCY04903",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/144f96edc44c.html",
-      "year": 2027,
-      "make": "BMW",
-      "model": "4 Series",
-      "condition": "new",
-      "price": 71650.0,
       "price_currency": "CAD"
     },
     {
@@ -5669,14 +5273,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 BMW i5 Sedan xDrive40",
-      "vin": "WBY33HG02VCY26202",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/15a21c043977.html",
+      "name": "2027 BMW 5 Series Sedan 530i xDrive Sedan",
+      "vin": "WBA53FJ06VCZ06042",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/bacce964d238.html",
       "year": 2027,
       "make": "BMW",
-      "model": "i5",
+      "model": "5 Series",
       "condition": "new",
-      "price": 88312.0,
+      "price": 83700.0,
       "price_currency": "CAD"
     },
     {
@@ -5714,13 +5318,13 @@
     },
     {
       "name": "2027 BMW M2 xDrive",
-      "vin": "3MF43DM0XV8G76248",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/fc90ffd9c610.html",
+      "vin": "3MF43DM06V8G94309",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/6882fa465564.html",
       "year": 2027,
       "make": "BMW",
       "model": "M2 xDrive",
       "condition": "new",
-      "price": 103150.0,
+      "price": 97450.0,
       "price_currency": "CAD"
     },
     {
@@ -5735,58 +5339,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 BMW M4 Convertible Competition Cabriolet",
-      "vin": "WBS43BA08VCY52193",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/d59a70810b32.html",
-      "year": 2027,
-      "make": "BMW",
-      "model": "M4 Convertible Competition Cabriolet",
-      "condition": "new",
-      "price": 125300.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 BMW M4 Convertible Competition Cabriolet",
+      "name": "2027 BMW M4 Competition Cabriolet",
       "vin": "WBS43BA02VCY64680",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/58e858baf14d.html",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/bfaacdd28d35.html",
       "year": 2027,
       "make": "BMW",
-      "model": "M4 Convertible Competition Cabriolet",
+      "model": "M4 Competition Cabriolet",
       "condition": "new",
       "price": 131150.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 BMW M4 Convertible Competition Cabriolet",
+      "name": "2027 BMW M4 Competition Cabriolet",
       "vin": "WBS43BA08VCY83993",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/ec4f8c04319a.html",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/baf136154fd9.html",
       "year": 2027,
       "make": "BMW",
-      "model": "M4 Convertible Competition Cabriolet",
+      "model": "M4 Competition Cabriolet",
       "condition": "new",
       "price": 131650.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 BMW M4 Coupe Competition Coupe",
-      "vin": "WBS33HK05VCY50012",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/20460dc9088d.html",
-      "year": 2027,
-      "make": "BMW",
-      "model": "M4 Coupe Competition Coupe",
-      "condition": "new",
-      "price": 132000.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 BMW M5 Sedan Sedan",
-      "vin": "WBS83FK02VCX94959",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/1d0d2f8aa9ba.html",
-      "year": 2027,
-      "make": "BMW",
-      "model": "M5 Sedan Sedan",
-      "condition": "new",
-      "price": 153400.0,
       "price_currency": "CAD"
     },
     {
@@ -5813,17 +5384,6 @@
     },
     {
       "name": "2027 BMW M5 Touring Touring",
-      "vin": "WBS83GV02VCY39626",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/32b5d8059d4a.html",
-      "year": 2027,
-      "make": "BMW",
-      "model": "M5 Touring Touring",
-      "condition": "new",
-      "price": 158900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 BMW M5 Touring Touring",
       "vin": "WBS83GV06VCY51083",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/3d3c6b77d113.html",
       "year": 2027,
@@ -5831,17 +5391,6 @@
       "model": "M5 Touring Touring",
       "condition": "new",
       "price": 152150.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 BMW M5 Touring Touring",
-      "vin": "WBS83GV07VCY53036",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/8991d202585e.html",
-      "year": 2027,
-      "make": "BMW",
-      "model": "M5 Touring Touring",
-      "condition": "new",
-      "price": 153900.0,
       "price_currency": "CAD"
     },
     {
@@ -6208,6 +5757,138 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 BMW X1 xDrive28i",
+      "vin": "WBX73EF00V5831778",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/cf867a319fb4.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "X1",
+      "condition": "new",
+      "price": 57750.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 BMW X1 xDrive28i",
+      "vin": "WBX73EF07V5825475",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/c724d945c7e6.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "X1",
+      "condition": "new",
+      "price": 57000.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 BMW X1 xDrive28i",
+      "vin": "WBX73EF04V5825451",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/d4069a9ac3b1.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "X1",
+      "condition": "new",
+      "price": 57000.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 BMW X1 xDrive28i",
+      "vin": "WBX73EF08V5833679",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/5a51108476a5.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "X1",
+      "condition": "new",
+      "price": 63200.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 BMW X1 xDrive28i",
+      "vin": "WBX73EF04V5828575",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/f8b54312ba99.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "X1",
+      "condition": "new",
+      "price": 57900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 BMW X1 xDrive28i",
+      "vin": "WBX73EF06V5822535",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/23328e189098.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "X1",
+      "condition": "new",
+      "price": 57000.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 BMW X1 xDrive28i",
+      "vin": "WBX73EF0XV5830704",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/6d0192c4fa27.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "X1",
+      "condition": "new",
+      "price": 65200.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 BMW X1 xDrive28i",
+      "vin": "WBX73EF03V5825439",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/87facb2c0760.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "X1",
+      "condition": "new",
+      "price": 57900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 BMW X1 xDrive28i",
+      "vin": "WBX73EF03V5833749",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/6542836c5b73.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "X1",
+      "condition": "new",
+      "price": 56400.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 BMW X1 xDrive28i",
+      "vin": "WBX73EF02V5835119",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/7d6032579604.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "X1",
+      "condition": "new",
+      "price": 56400.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 BMW X1 M35i xDrive",
+      "vin": "WBX13EF01V5833190",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/8dfea16aed37.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "X1",
+      "condition": "new",
+      "price": 68800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 BMW X1 xDrive28i",
+      "vin": "WBX73EF00V5833675",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/182d6578cc1c.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "X1",
+      "condition": "new",
+      "price": 56400.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 BMW X2 xDrive28i",
       "vin": "WBX63GM03V5786359",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/ef86000a9200.html",
@@ -6238,17 +5919,6 @@
       "model": "X2",
       "condition": "new",
       "price": 57850.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 BMW X2 M35i xDrive",
-      "vin": "WBX83GM07V5795008",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/4ada4e97e645.html",
-      "year": 2027,
-      "make": "BMW",
-      "model": "X2",
-      "condition": "new",
-      "price": 73550.0,
       "price_currency": "CAD"
     },
     {
@@ -6285,6 +5955,50 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 BMW X5 40 xDrive",
+      "vin": "5UX63JF04V9624240",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/ba3629ff72e4.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "X5",
+      "condition": "new",
+      "price": 114000.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 BMW X5 40 xDrive",
+      "vin": "5UX63JF0XV9629104",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/e5c2ebb85391.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "X5",
+      "condition": "new",
+      "price": 116150.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 BMW X5 40 xDrive",
+      "vin": "5UX63JF05V9628233",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/fd834aad82c6.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "X5",
+      "condition": "new",
+      "price": 113000.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 BMW X5 40 xDrive",
+      "vin": "5UX63JF03V9626853",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/3f10085012ea.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "X5",
+      "condition": "new",
+      "price": 111500.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 BMW X6 M Competition",
       "vin": "5YM23ET04V9553494",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/71a032359c29.html",
@@ -6315,17 +6029,6 @@
       "model": "X6",
       "condition": "new",
       "price": 112950.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 BMW X6 xDrive40i",
-      "vin": "5UX33EX07V9491935",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/6fd38f5e3a31.html",
-      "year": 2027,
-      "make": "BMW",
-      "model": "X6",
-      "condition": "new",
-      "price": 115700.0,
       "price_currency": "CAD"
     },
     {
@@ -6417,6 +6120,50 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 BMW X6 M60i",
+      "vin": "5UX43EX02V9611404",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/2a98c58dd631.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "X6",
+      "condition": "new",
+      "price": 138600.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 BMW X6 xDrive40i",
+      "vin": "5UX33EX01V9626214",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/308b8761aad8.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "X6",
+      "condition": "new",
+      "price": 104500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 BMW X6 xDrive40i",
+      "vin": "5UX33EX05V9626555",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/b2c338c65691.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "X6",
+      "condition": "new",
+      "price": 105500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 BMW X7 xDrive40i",
+      "vin": "5UX23EM07V9469837",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/0924461d237e.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "X7",
+      "condition": "new",
+      "price": 133150.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 BMW X7 xDrive40i",
       "vin": "5UX23EM06V9461065",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/8e21d4c54264.html",
@@ -6462,17 +6209,6 @@
     },
     {
       "name": "2027 BMW X7 xDrive40i",
-      "vin": "5UX23EM00V9478086",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/45d81768b3af.html",
-      "year": 2027,
-      "make": "BMW",
-      "model": "X7",
-      "condition": "new",
-      "price": 134150.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 BMW X7 xDrive40i",
       "vin": "5UX23EM0XV9500109",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/6ef85897a480.html",
       "year": 2027,
@@ -6491,17 +6227,6 @@
       "model": "X7",
       "condition": "new",
       "price": 131900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 BMW X7 xDrive40i",
-      "vin": "5UX23EM06V9527811",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/ab24e3f8fa28.html",
-      "year": 2027,
-      "make": "BMW",
-      "model": "X7",
-      "condition": "new",
-      "price": 137650.0,
       "price_currency": "CAD"
     }
   ]
