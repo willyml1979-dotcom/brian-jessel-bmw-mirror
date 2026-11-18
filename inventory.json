@@ -1,7 +1,7 @@
 {
   "dealership": "Brian Jessel Bmw",
-  "generated_at": "2026-11-17T12:43:19",
-  "vehicle_count": 610,
+  "generated_at": "2026-11-17T22:58:46",
+  "vehicle_count": 616,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -4180,17 +4180,6 @@
     },
     {
       "name": "2026 BMW X1 xDrive28i",
-      "vin": "WBX73EF01T5678034",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/436f681d94d2.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "X1",
-      "condition": "new",
-      "price": 62100.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW X1 xDrive28i",
       "vin": "WBX73EF08T5678919",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/5391200f9f3b.html",
       "year": 2026,
@@ -5730,6 +5719,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 BMW 5 Series Sedan 550e xDrive Sedan",
+      "vin": "WBA13FK05VCZ03260",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/2c8ea4d867d8.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "5 Series",
+      "condition": "new",
+      "price": 98700.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 BMW i5 Sedan xDrive40",
       "vin": "WBY33HG02VCY73133",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/d27e9280e4b7.html",
@@ -6442,6 +6442,72 @@
       "model": "X5",
       "condition": "new",
       "price": 111500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 BMW X5 40 xDrive",
+      "vin": "5UX63JF04V9631205",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/9bb3204bc85d.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "X5",
+      "condition": "new",
+      "price": 112500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 BMW X5 40 xDrive",
+      "vin": "5UX63JF06V9625907",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/1f5cd3095d3f.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "X5",
+      "condition": "new",
+      "price": 113250.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 BMW X5 40 xDrive",
+      "vin": "5UX63JF00V9626079",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/2f183ff1a3af.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "X5",
+      "condition": "new",
+      "price": 111750.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 BMW X5 40 xDrive",
+      "vin": "5UX63JF0XV9628034",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/8a95a167a864.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "X5",
+      "condition": "new",
+      "price": 111750.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 BMW X5 40 xDrive",
+      "vin": "5UX63JF05V9625929",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/4a38968fc307.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "X5",
+      "condition": "new",
+      "price": 118400.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 BMW X5 40 xDrive",
+      "vin": "5UX63JF06V9625910",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/new/cbf525e539ad.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "X5",
+      "condition": "new",
+      "price": 114000.0,
       "price_currency": "CAD"
     },
     {
