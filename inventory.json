@@ -1,6 +1,6 @@
 {
   "dealership": "Brian Jessel Bmw",
-  "generated_at": "2026-11-18T02:56:51",
+  "generated_at": "2026-11-18T08:31:59",
   "vehicle_count": 621,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -6771,7 +6771,7 @@
       "make": "BMW",
       "model": "X7",
       "condition": "new",
-      "price": 129162.0,
+      "price": 141050.0,
       "price_currency": "CAD"
     },
     {
