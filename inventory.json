@@ -1,7 +1,7 @@
 {
   "dealership": "Brian Jessel Bmw",
-  "generated_at": "2026-11-18T11:44:11",
-  "vehicle_count": 621,
+  "generated_at": "2026-11-18T22:27:33",
+  "vehicle_count": 623,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -733,23 +733,23 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 BMW M4 Convertible Competition Cabriolet - Advanced Driver Assistant",
-      "vin": "WBS33BA01NCK93002",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/f18c02a07123.html",
-      "year": 2022,
-      "make": "BMW",
-      "model": "M4 Convertible Competition Cabriolet - Advanced Driver Assistant",
-      "condition": "used",
-      "price": 97900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 BMW M4 Coupe Competition M xDrive Coupe - M Carbon Package",
       "vin": "WBS43AZ00NCK61287",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/8251b7bbd3e3.html",
       "year": 2022,
       "make": "BMW",
       "model": "M4 Coupe Competition M xDrive Coupe - M Carbon Package",
+      "condition": "used",
+      "price": 94900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 BMW M4 Competition Cabriolet - Advanced Driver Assistant",
+      "vin": "WBS33BA01NCK93002",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/84951895a25c.html",
+      "year": 2022,
+      "make": "BMW",
+      "model": "M4 Competition Cabriolet - Advanced Driver Assistant",
       "condition": "used",
       "price": 94900.0,
       "price_currency": "CAD"
@@ -808,15 +808,6 @@
       "condition": "used",
       "price": 54888.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "2022 BMW X5 One Owner! Premium Essential Package!",
-      "vin": "5UXTA6C04N9M42676",
-      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/9ab10aee08dd.html",
-      "year": 2022,
-      "make": "BMW",
-      "model": "X5",
-      "condition": "used"
     },
     {
       "name": "2022 BMW X5 xDrive40i - Premium Enhanced Package",
@@ -1176,6 +1167,15 @@
       "condition": "used"
     },
     {
+      "name": "2023 BMW iX xDrive Sports Activity",
+      "vin": "WB523CF06PCL78532",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/f45b2bd6e6e7.html",
+      "year": 2023,
+      "make": "BMW",
+      "model": "iX",
+      "condition": "used"
+    },
+    {
       "name": "2023 BMW M4 Competition M xDrive Cabriolet - Premium Package",
       "vin": "WBS33BA09PCL91827",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/b69c8c0c1ab5.html",
@@ -1477,6 +1477,17 @@
       "model": "Yukon",
       "condition": "used",
       "price": 92900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Tesla Model S Plaid",
+      "vin": "5YJSA1E6XPF522784",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/32269e83f223.html",
+      "year": 2023,
+      "make": "Tesla",
+      "model": "Model S",
+      "condition": "used",
+      "price": 102900.0,
       "price_currency": "CAD"
     },
     {
@@ -2009,6 +2020,15 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2024 BMW X3 xDrive Sports Activity",
+      "vin": "5UX53DP03R9W84186",
+      "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/cb597d92117b.html",
+      "year": 2024,
+      "make": "BMW",
+      "model": "X3",
+      "condition": "used"
+    },
+    {
       "name": "2024 BMW X4 M40i - Premium Enhanced, No Accidents",
       "vin": "5UX43DT07R9W81938",
       "url": "https://willyml1979-dotcom.github.io/brian-jessel-bmw-mirror/used/1cb8e02f5115.html",
@@ -2448,7 +2468,7 @@
       "make": "Toyota",
       "model": "Tundra",
       "condition": "used",
-      "price": 86900.0,
+      "price": 79888.0,
       "price_currency": "CAD"
     },
     {
